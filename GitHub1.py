@@ -1,6 +1,3 @@
-# MateFinder Telegram Dating Bot (Async, PTB v20+, TinyDB)
-# Compatible with Pydroid 3 and Python 3.13
-
 import logging
 import random
 from datetime import datetime
